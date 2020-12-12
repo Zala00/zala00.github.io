@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  background-image: url("Slike/favpng_cross-of-saint-peter-satanism-antichrist-christian-cross-pentagram.png");
+  background-repeat: repeat;
+}
+
+.polozaj{
+  display: flex;
+  justify-content: center;
+}
